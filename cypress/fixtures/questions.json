@@ -1,0 +1,17 @@
+[
+    {
+      "question": "What is your name?",
+      "answers": ["Jossie", "Daniel", "Jonathan", "Erin"],
+      "correctAnswer": "Jossie"
+    },
+    {
+      "question": "What is your gender?",
+      "answers": ["Male", "Female", "Nonbinary", "Prefer not to say"],
+      "correctAnswer": "Female"
+    },
+    {
+      "question": "What is your goal?",
+      "answers": ["Know myself", "Know others", "Know all", "Know none"],
+      "correctAnswer": "Know myself"
+    }
+  ]
