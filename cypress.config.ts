@@ -15,6 +15,7 @@ export default defineConfig({
   e2e: {
     baseUrl: 'http://localhost:3001', // Base URL for end-to-end tests
     setupNodeEvents() {
+    
       // Placeholder for setting up Node event listeners, such as logging or custom tasks
     },
   },
