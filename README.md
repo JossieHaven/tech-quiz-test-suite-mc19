@@ -27,14 +27,14 @@ This assignment underscores the importance of ensuring reliability and robustnes
 ## Installation
 
 1) Clone repo locally
-2) Execute the following commands:
+2) Perform the following commands:
     - npm i
     - npm client build, npm server build
     - npm run seed
     - npm run start:dev
     - npm run test
     - npm run test-gui
-3) Perform testing
+3) Execute neccesary testing
 
 ## Acceptence Criteria
 
